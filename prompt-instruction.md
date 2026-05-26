@@ -83,3 +83,6 @@ Include:
 - .github/workflows/ (CI for both frontend and backend)
 - docker-compose.yml for local dev
 - README.md
+
+# prompt 1.3
+Enhance the current structure defining skills
